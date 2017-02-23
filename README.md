@@ -11,6 +11,8 @@ to this:
 
 Just export your slide notes to XML in Captivate, then open them in this program, click display text and you'll have usable text to work with.
 
+Notes on a new slide will appear as a new line breaked paragraph in the application. Visually dividing each slide.
+
 ###Contributions
 Please contribute if you find this useful. I'm still a novice, and getting my head around git, but I'll do my best.
 
