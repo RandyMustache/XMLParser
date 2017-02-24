@@ -3,11 +3,11 @@ A tool to read the XML sheet provided in a Captivate export, and turn it into us
 
 ###Description
 Turn your slide note captions from this:
-![Slide notes](https://github.com/RandyMustache/RandyMustache.github.io/blob/master/_posts/tts.PNG?raw=true)
+![Slide notes](https://github.com/RandyMustache/RandyMustache.github.io/blob/master/_images/tts.PNG?raw=true)
 
 to this:
 
-![xmlparsed](https://github.com/RandyMustache/RandyMustache.github.io/blob/master/_posts/2017-02-23.png?raw=true)
+![xmlparsed](https://github.com/RandyMustache/RandyMustache.github.io/blob/master/_images/2017-02-23.png?raw=true)
 
 Just export your slide notes to XML in Captivate, then open them in this program, click display text and you'll have usable text to work with.
 
