@@ -69,15 +69,5 @@ namespace XMLParser.Properties {
                 return ((System.Drawing.Icon)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
-        /// </summary>
-        internal static System.Drawing.Icon XMLParser_Logo {
-            get {
-                object obj = ResourceManager.GetObject("XMLParser_Logo", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
     }
 }
